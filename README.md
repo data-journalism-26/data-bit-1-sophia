@@ -5,6 +5,8 @@ This data journalism project investigates Algeria’s migration control practice
 🔗 **Read the article:**  
 👉 👉 https://rawcdn.githack.com/data-journalism-26/data-bit-1-sophia/main/build/index.html
 
+Interactive article built with Svelte and Observable Plot. For grading, please view the repository contents and build output in this submission.
+
 ---
 
 ## 🔍 About the project
