@@ -3,7 +3,7 @@
 This data journalism project investigates Algeria’s migration control practices using a newly compiled dataset based on official military reports.
 
 🔗 **Read the article:**  
-👉 👉 https://rawcdn.githack.com/data-journalism-26/data-bit-1-sophia/main/build/index.html
+👉 👉 https://data-journalism-26.github.io/data-bit-1-sophia/
 
 Interactive article built with Svelte and Observable Plot. For grading, please view the repository contents and build output in this submission.
 
